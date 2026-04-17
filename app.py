@@ -10,7 +10,7 @@ st.set_page_config(
     initial_sidebar_state="collapsed",  
 )
 
-# ── Custom CSS ────────────────────────────────────────────────────────────────
+# ── Custom CSS.   ────────────────────────────────────────────────────────────────
 st.markdown("""
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Syne:wght@400;600;700;800&family=DM+Mono:wght@300;400;500&family=DM+Sans:ital,wght@0,300;0,400;0,500;1,300&display=swap');
